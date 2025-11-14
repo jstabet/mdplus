@@ -10,7 +10,7 @@ This repo contains data, results, and src scripts that preprocess the Flaredown 
 ```export.csv```: downloaded from [Kaggle](https://www.kaggle.com/datasets/flaredown/flaredown-autoimmune-symptom-tracker)
 
 ## results
-* preprocessed X and y, model results and feature importance figures
+* preprocessed X and y, EDA, model results and feature importance figures
 
 ## src
 * ```0_eda.ipynb```: eda
